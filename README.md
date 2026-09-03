@@ -1,2 +1,2 @@
 # okta-workflows
-Okta Workflows flows
+Okta Workflows examples
